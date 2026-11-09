@@ -1,4 +1,4 @@
-title: Hyungkyu (Tom) Lee
+title: ""
 theme: jekyll-theme-primer
 plugins:
   - jekyll-relative-links
@@ -11,5 +11,3 @@ defaults:
       path: ""
     values:
       layout: default
-exclude:
-  - DEPLOYMENT.txt
