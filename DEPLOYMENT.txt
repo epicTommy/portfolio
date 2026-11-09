@@ -1,0 +1,16 @@
+이 website 폴더의 내용만 GitHub 저장소 루트에 올리세요.
+
+Settings → Pages → Build and deployment:
+  Source: Deploy from a branch
+  Branch: main
+  Folder: / (root)
+
+별도 워크플로, 커스텀 HTML/CSS, 이미지, 빌드 스크립트는 없습니다.
+.md 파일을 수정하면 GitHub Pages가 기본 Primer 테마로 표시합니다.
+파일 간 링크는 [About](about.md)처럼 작성합니다.
+
+기존 원본 파일은 상위 폴더에 그대로 있습니다.
+본문이 YAML 또는 Liquid에 들어 있던 부분만 일반 Markdown으로 옮겼습니다.
+실제 GitHub 게시 작업은 아직 수행하지 않았습니다.
+
+참고: https://nicolas-van.github.io/easy-markdown-to-github-pages/

@@ -1,0 +1,15 @@
+title: Hyungkyu (Tom) Lee
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - DEPLOYMENT.txt
